@@ -1,2 +1,2 @@
-# Gtheory-codes-PARE2024
+# Gtheory-codes-PARE2025
 This repository provides materials accompanying (INSERT PAPER INFORMATION). The text_dat_long.csv file contains the data for the study, and the Univariate_Analysis.R file contains R code to conduct the univariate G-theory analysis. The mGtheory_source.R file contains source code for estimation algorithms for the MG-theory G study, and the MGtheory_Analysis.R file contains code to perform the MG-theory estimation and the MG-theory D study. All files should be downloaded to the same folder. 
